@@ -1,0 +1,6 @@
+# ignore dirs
+*/
+
+# ignore media
+*.mp4
+*.jpg
